@@ -1,0 +1,48 @@
+.text-center{
+    text-align: center;
+}
+
+.bg-red{
+    background-color: red;
+}
+
+.mx-auto{
+    margin: auto;
+}
+
+/* .m-w-20{
+    max-width: 30vw;
+} */
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.neon{
+    border-radius: 0%;
+    border: 2px solid whitesmoke;
+    color: whitesmoke;
+    background-color: rgb(0, 0, 0);
+    /* text-shadow: -2px 2px 3px aqua; */
+    text-shadow: -3px 1px 3px #ff0000, 5px 1px 3px #0000ff;
+    box-shadow: -3px 3px 3px #ff0000, 3px -3px 3px #0000ff;
+}
+
+button{
+    width: 65px;
+    height: 65px;
+}
+
+h1{
+    font-size: 260%;
+    font-weight: 400;
+    /* text-decoration: underline; */
+}
